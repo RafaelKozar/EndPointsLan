@@ -25,7 +25,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\EndPoints.Application\EndPoints.Application.csproj" />
-    <ProjectReference Include="..\..\src\EndPoints.Dto\EndPoints.Dto.csproj" />
   </ItemGroup>
 
 </Project>

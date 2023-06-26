@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using EndPoints.Core.Excepetions;
+using EndPoints.Core;
 using EndPoints.Data.Repository;
 using EndPoints.Dto;
 

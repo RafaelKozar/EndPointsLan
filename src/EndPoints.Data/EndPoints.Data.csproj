@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\..\PublicEnd\EndPointsLan\src\EndPoints.Domain\EndPoints.Domain.csproj" />
     <ProjectReference Include="..\EndPoints.Core\EndPoints.Core.csproj" />
-    <ProjectReference Include="..\src\EndPoints.Domain\EndPoints.Domain.csproj" />
   </ItemGroup>
 
 </Project>
